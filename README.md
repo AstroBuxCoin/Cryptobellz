@@ -1,3 +1,4 @@
+Asro Bux Coin $ABX
 # 1 token = 1 yaml file
 # assetId: policyId + hex-coded token name
 # file name: assetId of the token that want to be verified
