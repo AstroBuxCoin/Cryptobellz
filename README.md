@@ -3,11 +3,11 @@
 # file name: assetId of the token that want to be verified
 # all URL needs to be HTTPS
 
-project: Minswap
+project: Astro Bux Coin $ABX
 
 # among: DeFi, RealFi, GameFi, Meme, Bridge, Metaverse, Wallet, NFT, Oracle, AI, Launchpad, DAO, Stablecoin, Social, Media, Risk Ratings, Index Vaults, DePIN, Other
 categories:
-  - DeFi
+  - DeFi -Bridging -SoFi -Ecommerce 
 
 # needs to be the same as decimals in Cardano Token Registry or CIP-68
 decimals: 9
